@@ -1,0 +1,8 @@
+{
+  "name": "template-node-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hbenvenutti/template-node-typescript.git",
+  "author": "Huam Benvenutti <huambenvenutti@protonmail.com>",
+  "license": "MIT"
+}
