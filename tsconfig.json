@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "allowJs": true,
     "rootDir": "./src",
     "moduleResolution": "node",
     "resolveJsonModule": true,
@@ -13,8 +14,6 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "baseUrl": "./src",
-    "paths": {
-      
-    }
+    "paths": {}
   }
 }
